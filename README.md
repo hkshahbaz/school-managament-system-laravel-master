@@ -8,7 +8,7 @@
 </p>
 
 
-[![This project Wakatime badge](https://wakatime.com/badge/user/7ff17389-c918-439b-9b81-291fae77221d/project/79d37c1a-0e85-4879-8691-2c59abdb6588.svg)](https://wakatime.com/@7ff17389-c918-439b-9b81-291fae77221d)
+
 
 
 # School Management System (Laravel).
@@ -75,9 +75,6 @@ These interfaces will be actual interfaces through which the user will perform t
 
 * This project is licensed under the terms of the MIT license.
 
-## :envelope: About me
-
-* Repo created by [Shahbaz haroon]((https://github.com/hkshahbaz)), My portfolio: [Shahbaz]((https://github.com/hkshahbaz))
 
 Hope it will help.
 Good Luck.
