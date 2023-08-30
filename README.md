@@ -77,7 +77,7 @@ These interfaces will be actual interfaces through which the user will perform t
 
 ## :envelope: About me
 
-* Repo created by [Omar Kadish](https://github.com/OmarKadish), My portfolio: [Omar](https://omarkadish.wordpress.com/)
+* Repo created by [Shahbaz haroon]((https://github.com/hkshahbaz)), My portfolio: [Shahbaz]((https://github.com/hkshahbaz))
 
 Hope it will help.
 Good Luck.
